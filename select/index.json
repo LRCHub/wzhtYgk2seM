@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Snake",
+  "base_artist": "Medusa",
+  "createdAt": "2026-03-10T11:30:00.405928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sneaky Snake",
+      "artist": "Tom T. Hall",
+      "has_synced": true,
+      "path": "select/01_Sneaky_Snake_Tom_T._Hall.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Snake Ice",
+      "artist": "jonatan leandoer96",
+      "has_synced": true,
+      "path": "select/02_Snake_Ice_jonatan_leandoer96.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Snake",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/03_Snake_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Snake Eyes",
+      "artist": "Main Source",
+      "has_synced": true,
+      "path": "select/04_Snake_Eyes_Main_Source.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chalk Snake",
+      "artist": "No Joy",
+      "has_synced": true,
+      "path": "select/05_Chalk_Snake_No_Joy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Voice & The Snake",
+      "artist": "Enigma",
+      "has_synced": true,
+      "path": "select/06_The_Voice_&_The_Snake_Enigma.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Snake Eyes",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/07_Snake_Eyes_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Snake And Two People",
+      "artist": "Heaven 17",
+      "has_synced": false,
+      "path": "select/08_Snake_And_Two_People_Heaven_17.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dance of the Snake",
+      "artist": "Pharao",
+      "has_synced": false,
+      "path": "select/09_Dance_of_the_Snake_Pharao.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Snake",
+      "artist": "Audio Bullys",
+      "has_synced": false,
+      "path": "select/10_Snake_Audio_Bullys.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Snake Eyes",
+      "artist": "Shivaree",
+      "has_synced": false,
+      "path": "select/11_Snake_Eyes_Shivaree.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Snake",
+      "artist": "Modestep",
+      "has_synced": true,
+      "path": "select/12_Snake_Modestep.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "True Disaster (Cut Snake Remix)",
+      "artist": "Tove Lo",
+      "has_synced": false,
+      "path": "select/13_True_Disaster_(Cut_Snake_Remix)_Tove_Lo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Where's My Snake",
+      "artist": "Bow Wow Wow",
+      "has_synced": false,
+      "path": "select/14_Where's_My_Snake_Bow_Wow_Wow.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Snake",
+      "artist": "Medusa",
+      "has_synced": false,
+      "path": "select/pl_01_Snake_Medusa.txt"
+    }
+  ]
+}
